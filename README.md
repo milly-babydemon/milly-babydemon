@@ -1,6 +1,6 @@
 *boas vindas ao meu perfil*
 - Olá me chamo Samily Ribas👋
-- estou estudando no ![](Alura)
+- estou estudando no![](Alura)
 - Estou me densenvolveldo na linguagem JavaScript
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
